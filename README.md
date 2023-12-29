@@ -70,6 +70,8 @@ Visual Code Basic
 ## Contributing
 
 * edX Boot Camps LLC
+* Github Copilot
+* ChatGPT
 
 ## Authors
 
